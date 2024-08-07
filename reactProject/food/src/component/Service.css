@@ -1,0 +1,58 @@
+/* Service.css */
+
+.service {
+    background-color: #f4f4f4;
+    padding: 4rem 0;
+}
+
+.containers {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.serviceone {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.one {
+    flex: 1;
+    max-width: 300px;
+    min-width: 250px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 2rem;
+    text-align: center;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.one:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+
+.one h1 {
+    font-size: 3rem;
+    color: #ff5722;
+}
+
+.one h2 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    color: #333;
+}
+
+.one p {
+    font-size: 1rem;
+    color: #666;
+    margin-top: 0.5rem;
+}
+
+.fa-sharp.fa-solid.fa-user-tie {
+    font-size: 3rem;
+    color: #ff5722;
+}

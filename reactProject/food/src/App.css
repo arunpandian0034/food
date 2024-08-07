@@ -1,0 +1,317 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+body{
+  background-color: #f1f8ff;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  }
+/* .Home{
+  background-image: linear-gradient(rgba(0,0,0,0.787),rgba(0,0,0,0.820)),url(../src/assets/food_1.png);
+  width: 100%;
+  min-height: 100vh;
+}
+.Home{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  padding: 20px 0 px;
+  position: fixed;
+  z-index: 100000;
+  background: linear-gradient(rgba(0,0,0,0.787),rgba(0,0,0,0.820 ));
+}
+.Navbar.Nav {
+  display: flex;
+}
+.content{
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+}
+.content-image img{
+  width: 550px;
+  animation: infinite linear 70s rot;
+  position: absolute;
+  right: 40px;
+  top:100px;
+}
+@keyframes rot{
+  0%,100%{
+    transform:rotate(0deg)
+  }
+  50%{
+    transform: rotate(360deg);
+  }
+} */
+/* .serviceone one{
+  width:100%;
+  min-height: 400px;
+  margin-top: 40px;
+  padding: 4rem;
+}
+.serviceone{
+  display: flex;
+} */
+
+/* 
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+h2{
+  padding: 20%;
+} */
+.card16 img{
+  width: 300px;
+  height: 200px;
+}
+.card4 img{
+  width: 400px;
+  height: 300px;
+}
+.cards1{
+  display: grid;
+  /* flex-wrap: wrap; */
+  /* gap: 20px; */
+  grid-template-columns: 1fr 1fr 1fr 1fr ;
+  justify-self: center;
+  /* padding-left: 50px; */
+
+
+}
+.cards2{
+  display: grid;
+  /* flex-wrap: wrap; */
+  /* gap: 20px; */
+  grid-template-columns: 1fr 1fr  ;
+  justify-self: center;
+  /* padding-left: 50px; */
+
+
+}
+.card16{
+   text-align: center;
+}
+.card16:hover{
+  /* transform: translate(10px) ; */
+  transform: scale(1.05);
+  transition: 3ms ease-in;
+}
+.serviceone{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-left: 40px;
+  padding: 50px;
+  gap: 20px;
+}
+.card4{
+  text-align: center;
+}
+.card4:hover{
+ /* transform: translate(10px) ; */
+ transform: scale(1.05);
+ transition: 3ms ease-in;
+}
+/* .serviceone{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1 fr;
+ margin-left: 40px;
+ padding: 50px;
+ gap: 20px;
+} */
+.picone{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  margin-left: 40px;
+  padding: 50px;
+  gap: 20px;
+ }
+.one{
+  /* background-color: yellow; */
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.one:hover{
+  /* color: white; */
+  background-color: yellow;
+  /* text-shadow: 1px 2px black; */
+}
+.footer{
+  display: grid;
+  background-color: rgb(0, 12, 12);
+  padding-left: 20px;
+  color: beige;
+}
+.button{
+  padding: 50px;
+  gap: 20px;
+  background-color: rgb(115, 222, 222);
+}
+
+.maincontainer{
+  height: 100vh;
+  width: 100vw;
+  display:flex ;
+  justify-content: center;
+  align-items: center;
+}
+.contains{
+  height: 380px;
+  width:450px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px black;
+  padding: 10px;
+  
+}
+.form-main{
+  padding-bottom: 15px;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  color: black;
+}
+/* .inputss div{
+  padding: 5px 0px;
+} */
+.us-name {
+  padding: px 0px;
+}
+.inputss input{
+  margin-top: 15px;
+}
+.maincontainerone{
+  height: 70vh;
+  width: 100vw;
+  display:flex ;
+  justify-content: center;
+  align-items: center;
+}
+.containsone{
+  height: 280px;
+  width:350px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px black;
+  
+}
+.Navbar1{
+   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+} 
+  .bg-body-tertiary{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* padding:10px; */
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  height: 50px;  
+
+} 
+
+
+
+/* Navigation.css */
+
+.header {
+  background-color: #f8f9fa; /* Light background color for the header */
+  padding: 1rem 2rem; /* Padding for the header */
+  border-bottom: 1px solid #ddd; /* Optional: border for separation */
+}
+
+.header-title {
+  margin: 0;
+  font-size: 1.75rem; /* Adjust the size of the heading */
+  color: #333; /* Text color for the heading */
+}
+
+.nav-links {
+  display: flex;
+  gap: 1rem; /* Space between navigation links */
+}
+
+.nav-links .nav-link {
+  color: #333; /* Default color for the links */
+  font-size: 1rem; /* Font size for the links */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.nav-links .nav-link:hover {
+  color: #007bff; /* Color on hover */
+  text-decoration: underline; /* Optional: underline on hover */
+}
+
+@media (max-width: 768px) {
+  .header {
+      padding: 1rem; /* Reduce padding on smaller screens */
+  }
+
+  .nav-links {
+      flex-direction: column; /* Stack links vertically on smaller screens */
+      gap: 0.5rem; /* Reduce space between links */
+  }
+
+  .header-title {
+      font-size: 1.5rem; /* Adjust heading size on smaller screens */
+  }
+}

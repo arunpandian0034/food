@@ -1,0 +1,186 @@
+[
+    {
+       "id": "01",
+       "img":"modern1.jpg",
+       "foodname":"barger",
+       "price":"₹120",
+       "add":"Add to Cart",
+       "rating":"****"
+       
+
+    },
+    {
+        "id": "02",
+        "img":"modern2.jpg",
+        "foodname":"barger",
+        "price":"₹200",
+         "add":"Add to Cart"
+        
+ 
+     },
+     {
+        "id": "03",
+        "img":"modern5.jpg",
+        "foodname":"barger",
+        "price":"₹180",
+         "add":"Add to Cart"
+        
+ 
+     },
+     {
+        "id": "04",
+        "img":"blog3.jpg",
+        "foodname":"barger",
+        "price":"₹150",
+         "add":"Add to Cart"
+        
+ 
+     },
+     {
+        "id": "05",
+        "img":"bt1.jpg",
+        "foodname":"fruits",
+        "price":"₹150",
+         "add":"Add to Cart"
+        
+ 
+     },
+     {
+        "id": "06",
+        "img":"bt2.jpg",
+        "foodname":"fruits",
+        "price":"₹200",
+         "add":"Add to Cart"
+        
+ 
+     },
+     {
+        "id": "07",
+        "img":"about.jpg",
+        "foodname":"fruits",
+        "price":"₹180",
+         "add":"Add to Cart"
+        
+ 
+     },
+     {
+        "id": "08",
+        "img":"bt4.jpg",
+        "foodname":"fruits",
+        "price":"₹120",
+         "add":"Add to Cart"
+        
+ 
+     },
+     {
+        "id": "09",
+        "img":"blog1.jpg",
+        "foodname":"icecream",
+        "price":"₹120",
+         "add":"Add to Cart"
+        
+ 
+     },
+     {
+      "id": "10",
+      "img":"blog2.jpg",
+      "foodname":"icecream",
+      "price":"₹150",
+       "add":"Add to Cart"
+      
+
+   },
+   {
+      "id": "11",
+      "img":"modern4.jpg",
+      "foodname":"icecream",
+      "price":"₹180",
+       "add":"Add to Cart"
+      
+
+   },
+     {
+        "id": "12",
+        "img":"bt3.jpg",
+        "foodname":"icecream",
+        "price":"₹200",
+         "add":"Add to Cart"
+        
+ 
+     },
+     {
+      "id": "13",
+      "img":"menu1.jpg",
+      "foodname":"fastfood",
+      "price":"₹140",
+       "add":"Add to Cart"
+      
+
+   },
+   {
+      "id": "14",
+      "img":"menu2.jpg",
+      "foodname":"fastfood",
+      "price":"₹180",
+       "add":"Add to Cart"
+      
+
+   },
+   {
+      "id": "15",
+      "img":"menu3.jpg",
+      "foodname":"fastfood",
+      "price":"₹200",
+       "add":"Add to Cart"
+      
+
+   },
+   {
+      "id": "16",
+      "img":"menu4.jpg",
+      "foodname":"fastfood",
+      "price":"₹180",
+       "add":"Add to Cart"
+      
+
+   }
+   ,
+   {
+    "id": "17",
+    "img":"juice1.png",
+    "foodname":"juice",
+    "price":"₹180",
+     "add":"Add to Cart"
+    
+
+ }
+ ,
+ {
+    "id": "18",
+    "img":"juice2.jpg",
+    "foodname":"juice",
+    "price":"₹180",
+     "add":"Add to Cart"
+    
+
+ }
+ ,
+ {
+    "id": "19",
+    "img":"juice3.jpg",
+    "foodname":"juice",
+    "price":"₹180",
+     "add":"Add to Cart"
+    },
+    {
+        "id": "20",
+        "img":"juice4.png",
+        "foodname":"juice",
+        "price":"₹180",
+         "add":"Add to Cart"
+        }
+ 
+
+]
+
+
